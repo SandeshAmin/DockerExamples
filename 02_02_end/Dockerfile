@@ -1,5 +1,5 @@
 FROM nginx:alpine
-MAINTAINER Carlos Nunez <dev@carlosnunez.me>
+MAINTAINER Sandesh KV <>
 
 COPY website /website
 COPY nginx.conf /etc/nginx/nginx.conf
